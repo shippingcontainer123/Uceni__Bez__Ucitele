@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0540f285b0e455d",
+        "id": "da82aeed7d8739a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ae35dccfd7dfd346",
+            "id": "180970a7969aa47c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jedle/OT-01/git (1).md",
+                "file": "svihlus/OT-21/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git (1)"
+              "title": "README"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Průzkumník souborů"
             }
           },
           {
@@ -156,52 +156,90 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jedle/OT-01/git (1).md",
+                "file": "svihlus/OT-21/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of git (1)"
+              "title": "Přehled README"
+            }
+          },
+          {
+            "id": "00194c3be36820b2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Vytvořit nový canvas": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "bases:Vytvořit novou základnu": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae35dccfd7dfd346",
+  "active": "180970a7969aa47c",
   "lastOpenFiles": [
-    "jedle/OT-01/shrnuti_OT01 - GIT.md",
-    "jedle/OT-01/git (1).md",
-    "img/image_1739174395321_0.png",
-    "jedle/OT-02/systems_CZ.md",
-    "jedle/OT-03/booleovska_algebra.md",
-    "img/Karnaugh.png",
-    "img/feedback.png",
-    "img/booleovaAlgebra.png",
-    "img/System_third_order.png",
-    "img/System_second_order_zeta.png",
-    "img/System_second_order_omega.png",
-    "img/System_second_order_impulse.png",
-    "img/System_second_order.png",
-    "img/System_first_order_tau.png",
-    "jedle/OT-02/shrnuti_OT02.md",
-    "jedle/OT-02/zakladni_principy.md",
-    "jedle/OT-01/git.md",
-    "().md"
+    "svihlus/OT-21/shrnuti_OT21.md",
+    "svihlus/OT-21/README.md",
+    "svihlus/OT-21/Komunikační protokol MQTT.md",
+    "img/21. multilevel wild card.png",
+    "img/21. Striktura MQTT.png",
+    "img/21.Single level wild card.png",
+    "svihlus/OT-21/23._komunikan_protokol_mqtt.pdf",
+    "svihlus/OT-24/2._klasifikace_systm.pdf",
+    "svihlus/OT-20/Pulzně šířková modulace (PWM).md",
+    "img/20. 20 duty cycle.png",
+    "img/20. 50  duty cycle.png",
+    "svihlus/OT-20/README.md",
+    "svihlus/OT-20/shrnuti_OT20.md",
+    "img/20. 50 % duty cycle.png",
+    "img/20. 20% duty cycle.png",
+    "img/20. Ovládání serva.png",
+    "svihlus/OT-20/21._pulzn_kov_modulace_(pwm).pdf",
+    "svihlus/OT-17/README.md",
+    "svihlus/OT-17/Jednočipové počítače, mikrokontrolery.md",
+    "img/17. Procesor s ramkou.png",
+    "img/17. Napěťové špičky.png",
+    "svihlus/OT-17/13._jednoipov_potae_mikrokontrolery.pdf",
+    "svihlus/OT-17/shrnuti_OT17.md",
+    "svihlus/OT-16/README.md",
+    "svihlus/OT-22/Bez názvu.md",
+    "svihlus/OT-24/Bez názvu.md",
+    "svihlus/OT-16/Senzory a čtení dat.md",
+    "svihlus/OT-18/README.md",
+    "svihlus/OT-16/16._senzory_a_ten_dat.pdf",
+    "svihlus/OT-15/Sekvenční logické obvody.md",
+    "svihlus/OT-18/Čítače, časovače a přerušení.md",
+    "svihlus/OT-18/18._taasova_a_peruen.pdf",
+    "svihlus/OT-18/shrnuti_OT18.md",
+    "svihlus/OT-15/README.md",
+    "maturitni_otazky.md",
+    "svihlus/OT-15/7._sekvenn_logick_obvody.pdf",
+    "svihlus/OT-14/Základní aktivní komponenty.md",
+    "svihlus/OT-15/Kombinační a sekvenční elektronika - Frteen.md",
+    "svihlus/OT-15/Klopné obvody - Frteen.md",
+    "svihlus/OT-15/shrnuti_OT15.md",
+    "svihlus/OT-15/Logické brány - Frteen.md",
+    "svihlus/OT-14/README.md",
+    "svihlus/OT-14/15._zkladn_aktivn_komponenty.pdf",
+    "svihlus/OT-13/README.md",
+    "svihlus/OT-13/14._zkladn_pasivn_komponenty.pdf"
   ]
 }
